@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "4b6a43d1cd27c6a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0a41d942efa1f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8702e84f52722a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c398536db76d4d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d643edb356304d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07e021a9aedb0e93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0152ae4128094ffd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "94f424124618cac4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e74909f23993c929",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9adf921a371ab9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d738ce9f071a89d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "72b8a96f4fb7fea9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "f8c67f4bc82dfa15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cccc93a48aa2e0c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2f70869fb915b3c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ca8702e84f52722a",
+  "lastOpenFiles": [
+    "ChatBot/RC_2026-06/0/5/9/7/97950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1956247950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1956737950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1952847950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1955977950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1954757950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1954087950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1953697950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1953497950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1953417950.jsonl",
+    "ChatBot/RC_2026-06/0/5/9/7/1952887950.jsonl",
+    "README.md",
+    "Baterías de Ion Litio.md",
+    "Vehículos Eléctricos Pérsonales.md",
+    "Vehículos Eléctricos.md",
+    "Inicio.md"
+  ]
+}
