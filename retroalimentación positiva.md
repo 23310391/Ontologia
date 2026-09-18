@@ -1,0 +1,1 @@
+La retroalimentación positiva es el mecanismo por el que la respuesta de un sistema refuerza el estímulo que la ha originado, en lugar de corregirlo. No busca, como la retroalimentación negativa, un equilibrio: empuja al sistema en una sola dirección hasta que un proceso concreto llega a su fin
