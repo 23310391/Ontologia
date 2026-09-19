@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a731a5f4114991",
+        "id": "7d0a41d942efa1f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d0cab7cf19c6bb64",
+            "id": "ca8702e84f52722a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "Scooters Eléctricos"
+            }
+          },
+          {
+            "id": "de9cd863f0c04a69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -118,7 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Scooters Eléctricos.md",
+=======
+                "file": "Vehículos Eléctricos.md",
+>>>>>>> 9cdaef13692f0905a820cfcbdd3d2e374f5e88c6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +175,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Scooters Eléctricos.md",
+=======
+                "file": "Vehículos Eléctricos.md",
+>>>>>>> 9cdaef13692f0905a820cfcbdd3d2e374f5e88c6
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,13 +206,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d0cab7cf19c6bb64",
+  "active": "ca8702e84f52722a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Aumento de la Temperatura.md",
     "Fuga Térmica.md",
+=======
+    "cortocircuito interno.md",
+    "combustión intensa.md",
+    "Fuga Térmica.md",
+    "Aumento de la temperatura.md",
+    "Baterías de Ion Litio.md",
+    "BMS.md",
+>>>>>>> 9cdaef13692f0905a820cfcbdd3d2e374f5e88c6
     "Celdas contiguas.md",
+    "Combustión intensa.md",
+    "Cortocircuito interno.md",
+    "Retroalimentación positiva.md",
     "Scooters Eléctricos.md",
     "Vehículos Eléctricos Personales.md",
+<<<<<<< HEAD
     "Vehículos Eléctricos.md",
     "Retroalimentación Positiva.md",
     "README.md",
@@ -204,6 +235,14 @@
     "Combustión Intensa.md",
     "BMS.md",
     "Baterías de Ion Litio.md",
+=======
+    "Flashover.md",
+    "Vehículos Eléctricos.md",
+    "README.md",
+    "embalamiento térmico.md",
+    "Vehículos Eléctricos Pérsonales.md",
+    "Inicio.md",
+>>>>>>> 9cdaef13692f0905a820cfcbdd3d2e374f5e88c6
     "ChatBot/RC_2026-06/0/5/9/7/97950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956247950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956737950.jsonl",
