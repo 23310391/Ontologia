@@ -11,10 +11,14 @@
             "id": "d0cab7cf19c6bb64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Inicio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inicio"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Inicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,14 +190,14 @@
   },
   "active": "d0cab7cf19c6bb64",
   "lastOpenFiles": [
+    "Fuga Térmica.md",
     "flashover.md",
     "cortocircuito interno.md",
     "combustión intensa.md",
-    "aumento de la temperatura.md",
     "BMS.md",
     "Baterías de Ion Litio.md",
+    "aumento de la temperatura.md",
     "Inicio.md",
-    "Fuga Térmica.md",
     "README.md",
     "Scooters Eléctricos.md",
     "retroalimentación positiva.md",
