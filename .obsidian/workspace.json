@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celdas contiguas.md",
+                "file": "Fuga Térmica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celdas contiguas"
+              "title": "Fuga Térmica"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celdas contiguas.md",
+                "file": "Fuga Térmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +200,11 @@
   },
   "active": "ca8702e84f52722a",
   "lastOpenFiles": [
-    "BMS.md",
     "Fuga Térmica.md",
-    "Celdas contiguas.md",
     "Aumento de la temperatura.md",
     "Baterías de Ion Litio.md",
+    "BMS.md",
+    "Celdas contiguas.md",
     "Combustión intensa.md",
     "Cortocircuito interno.md",
     "Retroalimentación positiva.md",
