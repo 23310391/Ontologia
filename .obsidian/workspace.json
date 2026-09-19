@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashover.md",
+                "file": "Celdas contiguas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flashover"
+              "title": "Celdas contiguas"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flashover.md",
+                "file": "Celdas contiguas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,20 +200,21 @@
   },
   "active": "ca8702e84f52722a",
   "lastOpenFiles": [
-    "combustión intensa.md",
     "Fuga Térmica.md",
-    "flashover.md",
-    "retroalimentación positiva.md",
-    "cortocircuito interno.md",
+    "Celdas contiguas.md",
+    "Aumento de la temperatura.md",
     "Baterías de Ion Litio.md",
-    "aumento de la temperatura.md",
-    "Vehículos Eléctricos.md",
+    "Combustión intensa.md",
+    "Cortocircuito interno.md",
+    "Retroalimentación positiva.md",
     "Scooters Eléctricos.md",
-    "embalamiento térmico.md",
     "Vehículos Eléctricos Personales.md",
+    "Flashover.md",
+    "Vehículos Eléctricos.md",
+    "README.md",
+    "embalamiento térmico.md",
     "Vehículos Eléctricos Pérsonales.md",
     "Inicio.md",
-    "README.md",
     "ChatBot/RC_2026-06/0/5/9/7/97950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956247950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956737950.jsonl",
