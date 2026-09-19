@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Vehículos Eléctricos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuga Térmica"
+              "title": "Vehículos Eléctricos"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Vehículos Eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,9 +200,10 @@
   },
   "active": "ca8702e84f52722a",
   "lastOpenFiles": [
+    "aumento de la temperatura.md",
+    "Fuga Térmica.md",
     "retroalimentación positiva.md",
     "Scooters Eléctricos.md",
-    "Fuga Térmica.md",
     "embalamiento térmico.md",
     "Baterías de Ion Litio.md",
     "Vehículos Eléctricos.md",
