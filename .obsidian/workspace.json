@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Retroalimentación Positiva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Retroalimentación Positiva"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Retroalimentación Positiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Retroalimentación Positiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Retroalimentación Positiva.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,17 +190,17 @@
   },
   "active": "d0cab7cf19c6bb64",
   "lastOpenFiles": [
+    "README.md",
     "Inicio.md",
     "Fuga Térmica.md",
-    "flashover.md",
-    "cortocircuito interno.md",
-    "combustión intensa.md",
+    "Flashover.md",
+    "Cortocircuito Interno.md",
+    "Aumento de la Temperatura.md",
+    "Combustión Intensa.md",
     "BMS.md",
     "Baterías de Ion Litio.md",
-    "aumento de la temperatura.md",
-    "README.md",
     "Scooters Eléctricos.md",
-    "retroalimentación positiva.md",
+    "Retroalimentación Positiva.md",
     "Vehículos Eléctricos Personales.md",
     "Vehículos Eléctricos.md",
     "ChatBot/RC_2026-06/0/5/9/7/97950.jsonl",

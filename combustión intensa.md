@@ -1,5 +1,5 @@
 ## Definición 
- Es una reacción química rápida y exotérmica que libera gran cantidad de energía en forma de calor y luz, y puede volverse súbita y generalizada en espacios cerrados (fenómeno conocido como [[flashover]]). Es crítica porque transforma un fuego localizado en un incendio incontrolable.
+ Es una reacción química rápida y exotérmica que libera gran cantidad de energía en forma de calor y luz, y puede volverse súbita y generalizada en espacios cerrados (fenómeno conocido como [[Flashover]]). Es crítica porque transforma un fuego localizado en un incendio incontrolable.
 
  ## Tipos de combustion:
 Combustión completa: ocurre cuando hay suficiente oxígeno. El combustible se quema totalmente y produce dióxido de carbono y agua, con una llama azul limpia.
