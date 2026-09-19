@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Scooters Eléctricos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuga Térmica"
+              "title": "Scooters Eléctricos"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Scooters Eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Scooters Eléctricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fuga Térmica.md",
+                "file": "Scooters Eléctricos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,8 @@
   },
   "active": "d0cab7cf19c6bb64",
   "lastOpenFiles": [
+    "Aumento de la Temperatura.md",
+    "Fuga Térmica.md",
     "Celdas contiguas.md",
     "Scooters Eléctricos.md",
     "Vehículos Eléctricos Personales.md",
@@ -197,13 +199,11 @@
     "Retroalimentación Positiva.md",
     "README.md",
     "Inicio.md",
-    "Fuga Térmica.md",
     "Flashover.md",
     "Cortocircuito Interno.md",
     "Combustión Intensa.md",
     "BMS.md",
     "Baterías de Ion Litio.md",
-    "Aumento de la Temperatura.md",
     "ChatBot/RC_2026-06/0/5/9/7/97950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956247950.jsonl",
     "ChatBot/RC_2026-06/0/5/9/7/1956737950.jsonl",
