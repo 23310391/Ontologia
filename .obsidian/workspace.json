@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inicio"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inicio.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inicio.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inicio.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,7 @@
   },
   "active": "d0cab7cf19c6bb64",
   "lastOpenFiles": [
+    "Inicio.md",
     "Fuga Térmica.md",
     "flashover.md",
     "cortocircuito interno.md",
@@ -197,7 +198,6 @@
     "BMS.md",
     "Baterías de Ion Litio.md",
     "aumento de la temperatura.md",
-    "Inicio.md",
     "README.md",
     "Scooters Eléctricos.md",
     "retroalimentación positiva.md",
